@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/linkedin-Matias Ballestá-blue">
   </a>
   
-  <a href="https://www.instagram.com/maxigiraudo/">
+  <a href="https://www.instagram.com/matiasballesta/">
     <img src="https://img.shields.io/badge/instagram-@matiasballesta_-red">
   </a>
 </p>
