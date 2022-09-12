@@ -14,8 +14,8 @@
 <h4> I am a web full-stack developer </h4>
 
 
-- ⚡ I finished the intensive Full Stack Developer bootcamp at Henry   
-- ❤️ I love *Web Development*
+
+
 - 📫 Contact me *matiasballesta93@gmail.com*
 
 
