@@ -33,6 +33,10 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+<img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt=github width="60" height="60"/>
+	
+	
+
   
   
   <h4> I invite you to see my repositories, where you will find my latest works. </h4>
