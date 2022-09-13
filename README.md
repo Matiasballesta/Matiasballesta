@@ -34,6 +34,9 @@
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 <img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt=github width="60" height="60"/>
+<img style="margin: auto;" src="https://compile.blog/wp-content/uploads/2021/11/web3-icon.png" alt=github width="60" height="60"/>
+	
+	
 	
 	
 
