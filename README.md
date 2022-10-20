@@ -30,11 +30,11 @@
 <img style="margin: auto;" src="http://betabeers.com/uploads/blog/20170420_React_logo_wordmark.png" alt=express width="80" height="60"/>
 
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
+<img style="margin: auto;" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt=sequelize width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 <img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt= width="60" height="60"/>
 <img style="margin: auto;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt=next width="60" height="60"/>
-	
+
 	
 	
 	
