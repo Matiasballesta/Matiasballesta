@@ -33,7 +33,7 @@
 <img style="margin: auto;" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt=sequelize width="60" height="60"/>
 
   <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVezT64-jG0tMGKZUI4BbpKI-7JncTXUHZLA&usqp=CAU" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt=next width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=next width="60" height="60"/>
 <img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt=Solidity width="60" height="60"/>
 <img style="margin: auto;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt=next width="60" height="60"/>
 
