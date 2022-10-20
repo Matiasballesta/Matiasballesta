@@ -25,7 +25,7 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://www.openidealapp.com/wp-content/uploads/2018/02/express.png" alt=javascript width="80" height="60"/>
+	<img style="margin: auto;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png" alt=javascript width="80" height="60"/>
 <img style="margin: auto;" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt=javascript width="80" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
 <img style="margin: auto;" src="http://betabeers.com/uploads/blog/20170420_React_logo_wordmark.png" alt=express width="80" height="60"/>
@@ -33,8 +33,8 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-<img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt=github width="60" height="60"/>
-<img style="margin: auto;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt=github width="60" height="60"/>
+<img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt= width="60" height="60"/>
+<img style="margin: auto;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt=next width="60" height="60"/>
 	
 	
 	
