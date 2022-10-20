@@ -38,10 +38,6 @@
 <img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt=Solidity width="60" height="60"/>
 
 
-	
-	
-	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVezT64-jG0tMGKZUI4BbpKI-7JncTXUHZLA&usqp=CAU
-
   
   
   <h4> I invite you to see my repositories, where you will find my latest works. </h4>
