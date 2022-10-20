@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate Web developer from Argentina</h3>
 
-<h4> I am a web full-stack developer </h4>
+<h4> I am a Full-stack Developer </h4>
 
 
 
