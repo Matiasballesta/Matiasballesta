@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate Web developer from Argentina</h3>
 
-<h4> I am a Full-stack Developer </h4>
+<h4> I am a Full-Stack Developer </h4>
 
 
 
@@ -34,7 +34,7 @@
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 <img style="margin: auto;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt=github width="60" height="60"/>
-<img style="margin: auto;" src="https://compile.blog/wp-content/uploads/2021/11/web3-icon.png" alt=github width="60" height="60"/>
+<img style="margin: auto;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt=github width="60" height="60"/>
 	
 	
 	
